@@ -1,0 +1,34 @@
+{
+  "name": "backbonejs",
+  "version": "1.0.0",
+  "description": "Tests with bacbonejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudiohilario/backbonejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claudiohilario/backbonejs/issues"
+  },
+  "homepage": "https://github.com/claudiohilario/backbonejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "backbone": "^1.4.0",
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-copy": "^4.0.1",
+    "gulp-handlebars": "^5.0.2",
+    "handlebars": "^4.1.2",
+    "jquery": "^3.4.1",
+    "underscore": "^1.9.1"
+  }
+}
